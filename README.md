@@ -2,7 +2,7 @@
 This is a custom-engineered build of Dark Souls III.
 对联机请求时的返回函数做了伪装，因此你可以随时和朋友一起快乐游玩DS3
 The matchmaking response function has been cleverly disguised, allowing you to freely enjoy jolly cooperation with your friends in DS3
-而不用担心被挂逼搞进神服 ( 本人在正常游玩时曾受死妈挂狗背刺到天上反复移动到不同位置，被栽赃封号 )
+而不用担心被挂逼搞进神服 ( 本人曾在正常游玩时被死妈挂狗背刺到天上，以此受到栽赃封号 )
 without worrying about being thrown into the “god-server purgatory” by certain “creative” players who think framing others for bans is a form of art.
 并且禁用了官方原有的强制会话 ( 联机 ) 通道
 The original forced session (P2P) channel has also been disabled.
